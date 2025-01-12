@@ -1,0 +1,101 @@
+---
+title: "This course and other animals"
+subtitle: "Introduction to Macroeconomics // Spring 2025"
+institute: "marcio.santetti@emerson.edu"
+format: 
+  clean-revealjs:
+    self-contained: true
+html-math-method:
+  method: mathjax
+  url: "https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"
+author:
+  - name: Prof. Santetti
+---
+
+
+# Welcome! {background-color="#62259D"}
+
+## About prof. Santetti
+
+<br><br>
+
+  - Pronouns: *he/him/his*
+  - [How long]{.note} in this gig?
+  - Teaching [experience]{.note}
+  - [Research]{.note} fields
+
+
+## About you
+
+<br>
+
+. . .
+
+Suggested topics:
+
+  - Preferred [name/pronouns]{.note}
+  - Prospective/actual [major(s)]{.note}?
+  - Any [familiarity]{.note} with the subject?
+  - Favorite [cereal]{.note}?
+  
+# Why this course matters
+
+
+# Our place {background-color="#62259D"}
+
+
+## Canvas
+
+<br><br>
+
+  - [**EC 210--01 Canvas**](https://canvas.emerson.edu/courses/2078873)
+
+
+
+
+
+
+## Summing up
+
+<br><br>
+
+
+
+  - Quizzes, Mini Projects, Spring newsletter, etc.
+  - There, you can also check your [attendance]{.hi-blue}.
+  
+  
+  
+
+# TODO {background-color="#62259D"}
+
+## TODO
+
+<br>
+
+[Two]{.hi} assignment [due next Thursday]{.note} (01/16), before class:
+
+
+  - *Knowing you better*;
+  - *Syllabus Quiz*.
+
+  
+<br><br>
+
+
+Find both on [Canvas]{.note}.
+
+## TODO
+
+<br>
+
+- Recommended podcast listening:
+
+  - [*Rethinking the AI boom, with Daron Acemoğlu*](https://www.ft.com/content/e865a777-501a-4417-839e-dffd4b5206e7) ([The Economics Show]{.note} with Soumaya Keynes podcast).
+  - Also available on Spotify, Apple podcasts, etc.
+
+
+  
+# Next time: Macroeconomics & well-being {background-color="#62259D"}
+  
+  
