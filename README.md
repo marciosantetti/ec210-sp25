@@ -1,4 +1,4 @@
-# EC 210: Principles of Macroeconomics, Fall 2024
+# EC 210: Principles of Macroeconomics, Spring 2025
 
 <br>
 
