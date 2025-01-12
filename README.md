@@ -7,7 +7,7 @@ Welcome to EC 210: Principles of Macroeconomics!<br>
 
 <br>
 
-## Course Syllabi
+## Course Syllabus
 
 <br>
 
