@@ -11,7 +11,7 @@ Welcome to EC 210: Principles of Macroeconomics!<br>
 
 <br>
 
-  - [`EC 210 Syllabus`](https://raw.githack.com/marciosantetti/ec210-fall24/main/syllabus/syllabus-ec210-spring25.pdf)
+  - [`EC 210 Syllabus`](https://raw.githack.com/marciosantetti/ec210-sp25/main/syllabus/syllabus-ec210-spring25.pdf)
 
 <br>
 
