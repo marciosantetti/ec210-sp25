@@ -164,7 +164,7 @@ The U.S. uses the [GDP deflator]{.hi-slate} to transform [Nominal]{.hi-blue} int
 
 . . .
 
-> *The [GDP deflator]{.hi-slate} is a price [index]{.note} for measuring the general level of prices and defined as the [ratio]{.note} of [nominal]{.hi-blue} GDP to [real]{.hi-green} GDP.*
+> *The [GDP deflator]{.hi-slate} is a price [index]{.note} for measuring the general level of prices.*
 
 . . .
 
@@ -283,14 +283,13 @@ In terms of [living standards]{.hi-purple}, a more [meaningful]{.hi-green} compa
 
 . . .
 
-In short, controlling for [price differentials]{.hi-slate} allows us to more meaningfully compare GDP (and its relatives) between countries. 
-
-
-. . .
+<br>
 
 Thus we arrive to GDP in terms of [Purchasing Power Parity (PPP)]{.hi-purple}.
 
 . . .
+
+<br>
 
 The [purchasing power parity conversion factor]{.hi-orange} takes the [relative prices]{.note} between countries into account and allows for comparisons on how many currency units one has to spend [to buy the same amount of goods and services]{.hi-slate} in another country.
 
@@ -304,7 +303,7 @@ indexes	that	measure,	for	the	various	components	of	GDP,	the	amount	of	local	cur
 
 . . .
 
-  &#128279; [[GDP price levels relative to the U.S., 1990 to 2022]{.link}](https://ourworldindata.org/grapher/gdp-price-levels-relative-to-the-us)
+  &#128279; [[GDP price levels relative to the U.S., 1990 to 2023]{.link}](https://ourworldindata.org/grapher/gdp-price-levels-relative-to-the-us)
 
 
 
