@@ -34,7 +34,7 @@ author:
 
 <br><br>
 
-  🔗 [[Gross Domestic Product, Third Quarter 2024 (BEA)]{.link}](https://www.bea.gov/news/2024/gross-domestic-product-third-estimate-corporate-profits-revised-estimate-and-gdp-1)
+  🔗 [[U.S. Gross Domestic Product, latest release (BEA)]{.link}](https://www.bea.gov/news/glance)
 
 
 # More dimensions {background-color="#62259D"}
@@ -58,11 +58,7 @@ Most importantly, it is one of the main indicators for formulating *national* an
   - Does that sound correct, considering a [multidimensional]{.note} approach?
 
 
-. . .
 
-<br>
-
-🔗 [[Robert Kennedy on GDP (1968)]{.link}](https://www.youtube.com/watch?v=3FAmr1la6w0)
 
 ## More dimensions
 
