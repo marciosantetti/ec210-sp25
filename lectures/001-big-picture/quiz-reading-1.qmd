@@ -1,5 +1,5 @@
 ---
-title: "Quiz reading #1"
+title: "Online Quiz reading #1"
 subtitle: "Principles of Macroeconomics // Spring 2025"
 institute: "marcio.santetti@emerson.edu"
 format: 
@@ -13,11 +13,11 @@ author:
   - name: Prof. Santetti
 ---
 
-## Quiz reading
+## Online Quiz reading
 
 <br>
 
-⚠️ **Required reading** for next [quiz]{.note} (due ???4, before class): ⚠️
+⚠️ **Required reading** for next [online quiz]{.note} (due 02/20, before class): ⚠️
 
   &#128279; [["GDP Is Not a Measure of Human Well-Being," by A. Kapoor and B. Debroy (Harvard Business Review)]{.link}](https://hbr.org/2019/10/gdp-is-not-a-measure-of-human-well-being).
   
