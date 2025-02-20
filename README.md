@@ -51,6 +51,13 @@ Welcome to EC 210: Principles of Macroeconomics!<br>
   - Slides: [`html`](https://raw.githack.com/marciosantetti/ec210-sp25/refs/heads/main/lectures/001-big-picture/001-big-picture-4.html) | [`pdf`](https://raw.githack.com/marciosantetti/ec210-sp25/main/lectures/001-big-picture/001-big-picture-4.pdf)
 
 
+<br>
+
+**005: The structure of the U.S. economy**
+
+  - Slides: [`html`](https://raw.githack.com/marciosantetti/ec210-sp25/refs/heads/main/lectures/002-us-economy/002-us-economy.html) | [`pdf`](https://raw.githack.com/marciosantetti/ec210-sp25/refs/heads/main/lectures/002-us-economy/002-us-economy.pdf)
+
+
 
 <br>
 
