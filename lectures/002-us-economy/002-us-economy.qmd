@@ -1,6 +1,6 @@
 ---
 title: "The structure of the U.S. economy"
-subtitle: "Principles of Macroeconomics // Fall 2024"
+subtitle: "Principles of Macroeconomics // Spring 2025"
 institute: "marcio.santetti@emerson.edu"
 format: 
   clean-revealjs:
@@ -147,7 +147,7 @@ $\hspace{.5cm}$  &rarr; [Primary sector]{.note}: agriculture, (commercial) fishi
   
 . . .
 
-$\hspace{.5cm}$  &rarr; [Secondary sector]{.note}: automobile, chemical, pharmaceutical, vehicles, ...
+$\hspace{.5cm}$  &rarr; [Secondary sector]{.note}: automobile, chemical, pharmaceutical, ...
 
 . . .
 
