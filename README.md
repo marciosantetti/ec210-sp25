@@ -63,6 +63,12 @@ Welcome to EC 210: Principles of Macroeconomics!<br>
 
   - Slides: [`html`](https://raw.githack.com/marciosantetti/ec210-sp25/refs/heads/main/lectures/003-unemployment/003-unemp-1.html) | [`pdf`](https://raw.githack.com/marciosantetti/ec210-sp25/refs/heads/main/lectures/003-unemployment/003-unemp-1.pdf)
 
+<br>
+
+**007: (Un)employment: The labor market**
+
+  - Slides: [`html`](https://raw.githack.com/marciosantetti/ec210-sp25/refs/heads/main/lectures/003-unemployment/003-unemp-2.html) | [`pdf`](https://raw.githack.com/marciosantetti/ec210-sp25/refs/heads/main/lectures/003-unemployment/003-unemp-2.pdf)
+
 
 
 <br>
