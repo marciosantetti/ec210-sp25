@@ -1,6 +1,6 @@
 ---
 title: "(Un)employment & reality"
-subtitle: "Principles of Macroeconomics // Fall 2024"
+subtitle: "Principles of Macroeconomics // Spring 2025"
 institute: "marcio.santetti@emerson.edu"
 format: 
   clean-revealjs:
@@ -46,42 +46,34 @@ Among the main types of unemployment, the most [serious]{.note} type is [involun
 
 <br><br>
 
-[[Labor Market Shows Unexpected Strength (*NYT*)]{.link}](https://www.nytimes.com/2024/10/04/business/economy/jobs-report-september.html)
+[[U.S. Added 151,000 Jobs Last Month (*WSJ*)]{.link}](https://archive.is/2ts1M#selection-5939.407-5939.441)
 
 . . .
 
 <br>
 
-[[U.S. Jobs Report Shows Hiring Has Shifted Into Lower Gear (August 2024 labor market report, *NYT*)]{.link}](https://www.nytimes.com/2024/09/06/business/economy/jobs-report-august-2024.html)
-
-. . .
-
-<br>
-
-[[U.S. average hourly earnings]{.link}](https://fred.stlouisfed.org/series/CES0500000003)
+[[What Do Mass Federal Layoffs Mean for the Labor Market? (*WSJ*)]{.link}](https://archive.is/zoQR6#selection-5757.0-5757.55)
 
 
 
-## Looking at reality
-
-
-<br><br>
-
-[[Why This Jobs Report Could Be the Most Pivotal One in Years (*NYT*, September 2024)]{.link}](https://www.nytimes.com/2024/09/05/business/economy/jobs-report-federal-reserve.html)
-
-. . .
-
-<br>
-
-[[U.S. Underemployment rate]{.link}](https://fred.stlouisfed.org/series/U6RATE)
 
 
 ## Looking at reality
 
 <br><br>
 
-[[The Hot Labor Market Has Melted Away. Just Ask New College Grads (*NYT*)]{.link}](https://www.nytimes.com/2024/09/05/business/economy/jobs-college-graduates-unemployment.html)
+[[U.S. Economy Finished the Year on Strong Note, but Faces Hurdles (*NYT*)]{.link}](https://archive.is/5yirf)
 
+<br>
 
+. . .
+
+[[Can Low Unemployment Last Under Trump? (*NYT*)]{.link}](https://www.nytimes.com/2025/01/09/business/economy/trump-unemployment-economy.html)
+
+<br>
+
+. . .
+
+[[Eurozone Labor Market Stays Resilient Despite Weak Economy (*WSJ*)]{.link}](https://archive.is/7CQpG#selection-5845.7-5845.34)
 
 # Next time: Inflation 👻 {background-color="#62259D"}
