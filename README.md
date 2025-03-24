@@ -75,7 +75,11 @@ Welcome to EC 210: Principles of Macroeconomics!<br>
 
   - Slides: [`html`](https://raw.githack.com/marciosantetti/ec210-sp25/refs/heads/main/lectures/003-unemployment/003-unemp-3.html) | [`pdf`](https://raw.githack.com/marciosantetti/ec210-sp25/refs/heads/main/lectures/003-unemployment/003-unemp-3.pdf)
 
+<br>
 
+**009: Inflation: Basic definitions**
+
+  - Slides: [`html`](https://raw.githack.com/marciosantetti/ec210-sp25/refs/heads/main/lectures/004-inflation/004-inflation-1.html) | [`pdf`](https://raw.githack.com/marciosantetti/ec210-sp25/refs/heads/main/lectures/004-inflation/004-inflation-1.pdf)
 
 <br>
 
@@ -89,6 +93,12 @@ Welcome to EC 210: Principles of Macroeconomics!<br>
 
   - [`Mini Project 1`](https://raw.githack.com/marciosantetti/ec210-sp25/main/mini-projects/mp1-sp25.pdf)
 
+  
+  - [`Mini Project 2`](https://raw.githack.com/marciosantetti/ec210-sp25/main/mini-projects/mp2-sp25.pdf)
+
+<br>
+
+## Spring Newsletter
 
 <br>
 
