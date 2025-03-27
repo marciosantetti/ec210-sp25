@@ -83,6 +83,12 @@ Welcome to EC 210: Principles of Macroeconomics!<br>
 
 <br>
 
+**010: Inflation & other aggregates**
+
+  - Slides: [`html`](https://raw.githack.com/marciosantetti/ec210-sp25/refs/heads/main/lectures/004-inflation/004-inflation-2.html) | [`pdf`](https://raw.githack.com/marciosantetti/ec210-sp25/refs/heads/main/lectures/004-inflation/004-inflation-2.pdf)
+
+<br>
+
 ## Assignments
 
 <br>
