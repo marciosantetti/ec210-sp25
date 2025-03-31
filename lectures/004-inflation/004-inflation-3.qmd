@@ -1,6 +1,6 @@
 ---
 title: "Inflation & Central Banks"
-subtitle: "Principles of Macroeconomics // Fall 2024"
+subtitle: "Principles of Macroeconomics // Spring 2025"
 institute: "marcio.santetti@emerson.edu"
 format: 
   clean-revealjs:

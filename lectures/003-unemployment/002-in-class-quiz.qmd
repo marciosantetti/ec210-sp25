@@ -1,0 +1,44 @@
+---
+title: "In-class quiz #2"
+subtitle: "Introduction to Macroeconomics // Spring 2025"
+institute: "marcio.santetti@emerson.edu"
+format: 
+  clean-revealjs:
+    self-contained: false
+    chalkboard: true
+html-math-method:
+  method: mathjax
+  url: "https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"
+author:
+  - name: Prof. Santetti
+---
+
+
+
+## True or False? If False, provide a brief explanation why.
+
+
+::: {style="font-size: 87%;"}
+
+1. The unemployment rate calculation excludes [institutionalized]{.note} individuals, which are, for example, those in penal and mental facilities and homes for the aged.
+
+2. If an economy's nominal GDP grows, it [necessarily]{.note} means that it has produced more goods and services.
+
+3. Unemployment usually has three [sources]{.note}: cyclical, structural, and frictional.
+
+4. If someone is surveyed by the Census for unemployment purposes and has [given up]{.note} looking for work, they will be considered [out of the labor force]{.note}.
+
+5. If a Vietnamese law firm has employees working and earning wages in the England, their incomes will be counted towards the English [Gross National Income]{.note} (GNI).
+
+6. A country's [Gross National Product]{.note} (GNP) takes into account [citizenship]{.note}, rather than [location.]{.note}
+
+7. The advantage of using GDP at Purchasing Power Parity (PPP) is that it allows to compare countries' GDP measures controlling for prices of a [common]{.note} set of goods and services.
+
+8. If someone is on [layoff]{.note} awaiting recall, they will be considered [unemployed]{.note} by the Current Population Survey (CPS).
+
+9. If a [full-time student]{.note} is surveyed by the Census for unemployment purposes, they will be considered [out of the labor force]{.note}, even if they are currently working part-time at a restaurant.
+
+10. [Structural]{.note} unemployment is usually voluntary.
+
+
+:::
