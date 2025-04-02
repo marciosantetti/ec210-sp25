@@ -136,7 +136,7 @@ When it comes to money [creation]{.hi-pink}, we may distinguish between:
 
 
 
-  - Money [production]{.note} and [printing]{.note};
+  - Money [[production and printing]{.link}](https://www.federalreserve.gov/paymentsystems/coin_currency_orders.htm#chart1);
   
   - Money creation through [deposits.]{.note}
 
@@ -160,7 +160,7 @@ The [banking system]{.hi-grey}:
 
 <br>
 
-> *"A central bank is responsible for issuing money, conducting monetary policy, maintaining currency stability and overseeing the nation’s banking system, while acting as a lender of last resort."* (Reardon et al., 2018)
+> *"A central bank is responsible for issuing money, conducting **monetary policy**, maintaining **currency stability** and overseeing the nation’s banking system, while acting as a **lender of last resort**."* (Reardon et al., 2018)
 
 . . .
 
@@ -263,14 +263,19 @@ Basically, [monetary policy]{.hi-purple} addresses [two]{.note} main problems:
 
 . . .
 
-  - [How much money in the economy?]{.note}
-  
-  - [How costly to obtain money?]{.note}
+- [How much money in the economy?]{.note}
+
+  - *Money supply*.
   
 . . .
+  
+- [How costly to obtain money?]{.note}
+
+  - *Interest rates*.
 
 
-<br>
+. . .
+
 
 To these ends, the Central Bank has [three]{.hi} main [tools]{.note}:
 
@@ -282,9 +287,7 @@ To these ends, the Central Bank has [three]{.hi} main [tools]{.note}:
   
   - [[Reserve requirements]{.link}](https://www.federalreserve.gov/monetarypolicy/reservereq.htm).
   
-. . .
 
-The [last two]{.note} are responsibility of the [Board of Governors]{.hi-pink}, while the [first]{.note} is determined by the [Federal Open Market Committee (FOMC)]{.hi-grey}.
 
 
 ## Monetary policy
