@@ -1,6 +1,6 @@
 ---
 title: "Inflation & reality"
-subtitle: "Principles of Macroeconomics // Fall 2024"
+subtitle: "Principles of Macroeconomics // Spring 2025"
 institute: "marcio.santetti@emerson.edu"
 format: 
   clean-revealjs:
@@ -19,15 +19,11 @@ author:
 ## Wrapping up
 
 
-<br><br><br>
+<br><br><br><br>
 
 Now that we are better equipped to understand the functioning of a country's macroeconomy, let us investigate how [inflation]{.note} is treated in media outlets.
 
-. . .
 
-<br>
-
-But first, how is [monetary policy]{.hi-purple} communicated?
 
 
 
@@ -42,10 +38,10 @@ But first, how is [monetary policy]{.hi-purple} communicated?
 
 ## Inflation & reality
 
-<br>
+<br><br>
 
 
-[[Fed prepares rate cut amid economic contradictions (*WSJ*)]{.link}](https://archive.is/lOwgY)
+[[Inflation Eased in March but Tariffs Raise Risk of Higher Prices (*NYT*)]{.link}](https://www.nytimes.com/2025/04/10/business/inflation-cpi-tariffs-march.html)
 
 
 . . .
@@ -54,15 +50,9 @@ But first, how is [monetary policy]{.hi-purple} communicated?
 <br>
 
 
-[[Inflation Is Basically Back to Normal. Why Do Voters Still Feel Blah? (*NYT*)]{.link}](https://www.nytimes.com/2024/10/31/business/economy/inflation-prices-economy.html)
-
-. . .
-
-<br>
+[[Fed Under Pressure as Inflation Expectations Surge (*NYT*)]{.link}](https://www.nytimes.com/2025/04/11/business/economy/fed-inflation-trade.html)
 
 
-
-[[Wages Have Outpaced Inflation. But Not for Everyone. (*NYT*)]{.link}](https://www.nytimes.com/2024/10/28/business/economy/inflation-wages-pay-salaries.html)
 
 
 ## Inflation & reality

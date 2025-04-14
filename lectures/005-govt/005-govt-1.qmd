@@ -1,0 +1,257 @@
+---
+title: "Governments & fiscal policy"
+subtitle: "Principles of Macroeconomics // Spring 2025"
+institute: "marcio.santetti@emerson.edu"
+format: 
+  clean-revealjs:
+    self-contained: true
+html-math-method:
+  method: mathjax
+  url: "https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"
+author:
+  - name: Prof. Santetti
+---
+  
+# Readings {background-color="#62259D"}
+  
+  
+  
+## Recommended readings
+  
+<br>
+  
+**Required readings**:
+  
+- [Macroeconomics in Context]{.note}, 4th ed.
+  - Chapter 9, Introduction, sections 1.2&mdash;1.4, 2.1.
+
+
+  
+  
+## Words of the day
+  
+<br><br>
+
+- Spending;
+- Bonds;
+- Budget.
+  
+# When governments step in {background-color="#62259D"}
+
+## When governments step in
+
+
+
+In times of [recession]{.hi}, solely relying on [monetary policy]{.hi-purple} to stimulate the economy may not be enough.
+
+. . .
+
+<br>
+
+The usual recipe involves a [policy mix]{.note}:
+
+  - [Monetary]{.note} +
+  - [Fiscal]{.note} policies.
+  
+. . .
+
+
+
+> [Fiscal]{.hi-blue} policy encompasses how governments manage their [budget]{.note}&mdash;namely what governments [spend]{.note}, how they [get]{.note} the money that they   spend, and the [effects]{.note} of these activities on GDP levels.
+
+## When governments step in
+
+[Fiscal]{.hi-blue} policy adds another component to [Aggregate Demand (AD)]{.note}:
+
+<br>
+
+$$
+\text{AD} = C + I + G
+$$
+
+. . .
+
+<br>
+
+$$
+\text{AD} = \underbrace{C + I}_{\text{private sector}} + \underbrace{G}_{\text{public sector}}
+$$
+
+. . .
+
+<br><br>
+
+For now, we are [ignoring]{.hi-pink} the [foreign]{.note} sector (*X - M*).
+
+## When governments step in
+
+<br>
+
+Especially in periods of [high uncertainty]{.hi-red}, fiscal policy may reintroduce [stability]{.note} to economic activity and employment.
+
+. . .
+
+<br>
+
+[Fiscal policy]{.hi-blue} can be implemented in [several]{.note} ways, namely:
+
+  - Raising/lowering [government spending]{.note} (*G*);
+  - Raising/lowering [taxes]{.note} (*T*);
+  - Raising/lowering [transfer payments]{.note} (*TR*).
+  
+## When governments step in
+
+[[**Government expenditures (G)**]{.note}]{.bg-grey}
+
+  - Infrastructure;
+  - Updating electrical grid;
+  - Renewable energy research.
+
+. . .
+
+
+[[**Taxes (T)**]{.note}]{.bg-grey}
+
+  - Tax cuts/increases to households and businesses.
+
+. . .
+
+
+[[**Transfer payments (TR)**]{.note}]{.bg-grey}
+
+  - Unemployment benefits;
+  - Food stamps;
+  - Social security. 
+
+
+## When governments step in
+
+<br>
+
+While [government spending]{.hi} (*G*) [directly]{.note} affects the economy, [tax]{.hi-pink} changes (*T*) and [transfer]{.hi-pink} payments (*TR*) have an [indirect]{.note} effect in the economy.
+
+. . .
+
+<br>
+
+  - This happens because events such as tax cuts or transfer payments are [not]{.hi-slate} expenditures [per se]{.note}.
+
+
+
+## When governments step in
+
+There are [two]{.hi-red} types of fiscal policy:
+
+. . .
+
+  - [Expansionary]{.note};
+  
+  - [Contractionary.]{.note}
+
+. . .
+
+While [expansionary]{.note} fiscal policy aims to [stimulate]{.hi-green} the economy, [contractionary]{.note} policies lead to [lowering]{.hi-orange} the level of economic activity.
+
+. . .
+
+<br>
+
+  - [Expansionary fiscal policies]{.note}: increases in government expenditures and transfer payments, tax reductions.
+  
+  - [Contractionary fiscal policies]{.note}: reductions in government expenditures and transfer payments, tax raises.
+
+# The government budget {background-color="#62259D"}
+
+## The government budget
+
+<br>
+
+Since fiscal policy involves changes in a government's [budget]{.hi}, the latter can be defined as:
+
+<br><br><br>
+
+$$
+\text{Government budget} = \text{Taxes} - (\text{Government expenditures} + \text{Transfer payments})
+$$
+
+
+
+  
+## The government budget
+
+<br>
+
+Since fiscal policy involves changes in a government's [budget]{.hi}, the latter can be defined as:
+
+<br><br>
+
+$$
+\text{Government budget} = \underbrace{\text{Taxes}}_{\text{Revenue}} - \underbrace{(\text{Government expenditures} + \text{Transfer payments})}_{\text{Outlays}}
+$$
+
+. . .
+
+<br><br>
+
+  - When a government's revenues are [greater]{.hi-pink} than its outlays, it has a budget [surplus]{.note}.
+  - When a government's revenues are [lower]{.hi-green} than its outlays, it has a budget [deficit]{.note}.
+
+
+## The government budget
+
+<br><br><br>
+
+- &#128279; [[U.S. Government budget]{.link}](https://fred.stlouisfed.org/seriesBeta/M318501Q027NBEA)
+
+<br>
+
+- &#128279; [[U.S. Government budget as a percentage of GDP]{.link}](https://fred.stlouisfed.org/seriesBeta/FYFSGDA188S)
+
+
+
+## The government budget
+
+When [revenues]{.hi-orange} (i.e., taxes) are not sufficient to [cover]{.hi-green} outlays, the government [borrows]{.note} to cover the difference.
+
+. . .
+
+[Q:]{.note} But how do governments [finance]{.note} their debt?
+  
+. . .
+
+<br>
+
+[A:]{.note} Through the sale of [government bonds]{.hi-slate}. 
+  
+. . .
+
+> A [government bond]{.hi-blue} is an interest-bearing [security]{.note} constituting a promise to pay at a specified future time.
+
+
+
+## The government budget
+
+
+
+<br><br><br>
+
+- &#128279; [[Different U.S. Government bonds]{.link}](https://treasurydirect.gov/marketable-securities/treasury-bonds/)
+
+
+## The government budget
+
+![](budget.png){fig-align="center" width="500" height="650"}
+
+# Fiscal policy in practice {background-color="#62259D"}
+
+## Fiscal policy in practice
+
+<br>
+
+- &#128279; [[American Recovery and Reinvestment Act (ARRA, 2009)]{.link}](https://www.govinfo.gov/content/pkg/BILLS-111hr1enr/pdf/BILLS-111hr1enr.pdf)
+
+- &#128279; [[Tax Cuts and Jobs Act (TCJA, 2017)]{.link}](https://www.govinfo.gov/content/pkg/PLAW-115publ97/pdf/PLAW-115publ97.pdf)
+
+- &#128279; [[Coronavirus Aid, Relief, and Economic Security (CARES, 2020)]{.link}](https://www.govinfo.gov/content/pkg/COMPS-15754/pdf/COMPS-15754.pdf)
+
+# Next time: Fiscal policy & reality {background-color="#62259D"}
