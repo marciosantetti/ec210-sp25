@@ -1,4 +1,4 @@
-The following questions are based on the [`video`](https://www.youtube.com/watch?v=H6WXKUQJ62Y&t=510s) we watched together in class. In a recent episode of the "Odd Lots" podcast (Bloomberg), economist Isabella Weber discussed the recent inflationary period in the U.S. and other countries after the COVID-19 pandemic. She has introduced a novel explanation for inflation, coined as "seller's inflation." Based on the video (we have watched about 27 minutes of it in class), reflect on the following questions:
+The following questions are based on the [`video`](https://www.youtube.com/watch?v=H6WXKUQJ62Y&t=510s) we watched together in class. In a recent episode of the "Odd Lots" podcast (Bloomberg), economist Isabella Weber discussed the recent inflationary period in the U.S. and other countries after the COVID-19 pandemic. She has introduced a novel explanation for inflation, coined as "seller's inflation." Based on the video (we have watched about 25 minutes of it in class), reflect on the following questions:
 
 ---
 
@@ -8,4 +8,4 @@ The following questions are based on the [`video`](https://www.youtube.com/watch
 
 ---
 
-For all questions, write between 3 to 5 paragraphs. Submit a PDF file with your typed answers through Canvas. The assignment is called "Seller's inflation reflection." Points from this assignment will be put into the "Quizzes" grading group.
+For all questions, write between 3 to 5 paragraphs. Submit *either* a PDF file with your typed answers *or* use the text entry option through Canvas. The assignment is called "*Seller's inflation reflection*." Points from this assignment will be put into the "Quizzes" grading group.
