@@ -99,6 +99,14 @@ Welcome to EC 210: Principles of Macroeconomics!<br>
 
   - Slides: [`html`](https://raw.githack.com/marciosantetti/ec210-sp25/refs/heads/main/lectures/004-inflation/004-inflation-4.html) | [`pdf`](https://raw.githack.com/marciosantetti/ec210-sp25/refs/heads/main/lectures/004-inflation/004-inflation-4.pdf)
 
+
+<br>
+
+**013: Governments & fiscal policy**
+
+  - Slides: [`html`](https://raw.githack.com/marciosantetti/ec210-sp25/refs/heads/main/lectures/005-govt/005-govt-1.html) | [`pdf`](https://raw.githack.com/marciosantetti/ec210-sp25/refs/heads/main/lectures/005-govt/005-govt-1.pdf)
+
+
 <br>
 
 ## Assignments
