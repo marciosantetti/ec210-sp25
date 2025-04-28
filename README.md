@@ -122,6 +122,8 @@ Welcome to EC 210: Principles of Macroeconomics!<br>
   
   - [`Mini Project 2`](https://raw.githack.com/marciosantetti/ec210-sp25/main/mini-projects/mp2-sp25.pdf)
 
+  - [`Q3`](https://raw.githack.com/marciosantetti/ec210-sp25/refs/heads/main/lectures/004-inflation/003-in-class-quiz.html)
+
 <br>
 
 ## Spring Newsletter
